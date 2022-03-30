@@ -62,7 +62,6 @@ git clone https://github.com/JAEHYUN2022/bitcoinAutoTrade.git
 <img src="./Image/3.png">
 
 3. 백그라운드 환경에서 코드 실행
-<img src="./Image/4.png">
 ```bash
 sudo ln -sf /usr/share/zoneinfo/Asia/Seoul/ /etc/localtime
 
@@ -74,4 +73,4 @@ pip3 install pyupbit
 
 nohup python3 bitcoinAutoTrade.py > output.log &
 ```
-
+<img src="./Image/4png">
