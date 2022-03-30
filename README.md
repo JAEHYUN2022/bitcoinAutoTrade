@@ -73,4 +73,4 @@ pip3 install pyupbit
 
 nohup python3 bitcoinAutoTrade.py > output.log &
 ```
-<img src="./Image/4png">
+<img src="./Image/4.png">
