@@ -64,7 +64,6 @@ git clone https://github.com/JAEHYUN2022/bitcoinAutoTrade.git
 3. 백그라운드 환경에서 코드 실행
 <img src="./Image/4.png">
 ```bash
-# 한국기준으로 서버시간 변경
 sudo ln -sf /usr/share/zoneinfo/Asia/Seoul/ /etc/localtime
 
 sudo apt update
