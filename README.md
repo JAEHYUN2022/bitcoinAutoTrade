@@ -2,7 +2,7 @@
 
 ## 참고 자료
 - 파이썬을 이용한 비트코인 자동매매 - 조대표
-<img src="./Image/5.jpg">
+<img src="./Image/5.jpg" width=500>
 <br/><br/><br/>
 
 ## 매매 전략 (변동성 돌파 전략)
